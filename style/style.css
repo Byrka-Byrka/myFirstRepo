@@ -10,7 +10,7 @@ body {
 .block-menu {
     width: 100%;
     height: 160px;
-    background-color: black;
+    background-color: rgb(145, 32, 32);
 }
 
 .block {
